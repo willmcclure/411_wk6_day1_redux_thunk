@@ -47,3 +47,9 @@ Today we are going to create a mock-import utility that we can use in our cars a
 * Once all the above is done, create a simple `<h2>` that displays `COUNT: <NUM>` where NUM is `props.makes.length`. We want to always know how many rows we have.
 
 * Finally, add a "Import" button to the navigation bar so that we don't have to type "/import" in the browser bar each time.
+
+## Examples
+
+![1](./images/411_wk6_1-1.png)
+![2](./images/411_wk6_1-2.png)
+![3](./images/411_wk6_1-3.png)
